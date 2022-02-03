@@ -1,7 +1,5 @@
 - 👋 Hi, we’re @gegenfeld
-- 👀 We're interested in EdTech
-- 🌱 We’re currently learning with you
-- 💞️ We’re looking to collaborate on anything
+
 - 📫 How to reach us: <a href="https://gegenfeld.com/support">Support</a>
 
 <!---
